@@ -1,0 +1,32 @@
+.uk{
+    position: absolute;top: 66%;
+}
+.jk{
+    width: 140px; 
+}
+.jk:hover{
+    transform: scale(1.1);
+}
+.rem{
+    background-color: crimson ; 
+    border: none; 
+    border-radius: 10px;
+     color: white;
+}
+.b1{
+    border: none; background-color: rgb(173, 187, 187); border-radius: 5px;
+}
+.b2{
+    border: none; background-color: rgb(163, 182, 182); border-radius: 5px;
+
+}
+.b{
+    border: none; background-color: rgb(3, 129, 129); border-radius: 5px;
+}
+.con{
+    background-image: url(./../images/theaters.webp);
+    width: 100%;
+    height: 580px;
+    background-position: center;
+    background-size: cover;
+}
